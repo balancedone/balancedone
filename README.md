@@ -1,4 +1,11 @@
 ## Hi there 👋
+# Welcome to my learning space
+
+This is where I practise coding, build projects, and track progress. One step at a time.
+
+I’m here to learn, improve, and grow.
+
+Thanks for dropping by!
 
 <!--
 **balancedone/balancedone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
